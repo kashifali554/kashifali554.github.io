@@ -17,3 +17,12 @@ page breaks added to ad some space between the content.
 peragraph page describes a little bit about myself.
 
 in the footer area I have added my twitter and linkedin accounts.
+
+
+Contact page added with email form.
+
+Home page added for batter navigation.
+
+Git hub account added both on home and contact page.
+
+Portfolio and about me page added
