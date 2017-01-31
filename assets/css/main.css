@@ -27,3 +27,8 @@ p {
 form {
 	align-content: center;
 }
+.screen-shot {
+	align-content: center;
+	text-align: center;
+	font-weight: bold;
+}
