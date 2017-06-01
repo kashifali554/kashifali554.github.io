@@ -1,32 +1,27 @@
-# Personal Portfolio Project
-This is the personal portfolio project of kashifali554.github.io
+# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
-I created the html doc and included Jquery and bootstrap cdn inside the head tag.
+[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-also linked the css main file inside the document.
+## Getting Started
 
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
+* Fork the repo
 
-first class in my body tag is navigation button bar. It includes three buttons. Portfoli, about and contact.
+## Bugs and Issues
 
-The page-wrapper id contains name and picture of me placed center of the page. 
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
 
-Also body class in css give styling information regarding fonts and background color.
+## Creator
 
-page breaks added to ad some space between the content.
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-peragraph page describes a little bit about myself.
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-in the footer area I have added my twitter and linkedin accounts.
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
+## Copyright and License
 
-Contact page added with email form.
-
-Home page added for batter navigation.
-
-Git hub account added both on home and contact page.
-
-Portfolio and about me page added
-
-Screen shot and github repo link added on portfolio page.
-
-Added, Json to html, Mr fox lab screen shot
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
